@@ -1,65 +1,62 @@
-# 🚀 Sahil Jasani | Mechatronics Engineer | Robotics & AI Enthusiast
+# 🚀 Sahil Jasani | M.Sc. Mechatronics | Robotics & KI Enthusiast
 
-🎯 Passionate about building intelligent systems at the intersection of **control theory**, **AI**, and **robotics**.  
-🔬 Currently completing my master’s thesis at **Festo** on **Hybrid Model Predictive Control (MPC)** for bioreactor optimization.  
-🤖 Skilled in ROS 2, embedded systems, LiDAR simulation, AI/ML, and hardware-in-the-loop testing.  
-📍 Based in Stuttgart, Germany | Open to relocation | Actively seeking opportunities in Robotics, AI, or Control Systems.
-
----
-
-## 🔧 Tech Stack
-
-**Programming:**  
-`Python` | `C++` | `PLC Programming` | `MATLAB` | `Simulink` | `SQL`
-
-**Machine Learning & AI:**  
-`TensorFlow` | `PyTorch` | `Keras` | `Scikit-learn` | `OpenCV` | `YOLO` | `CNNs` | `Deep Learning` | `Langchain` | `Vector DBs` | `Hugging Face` | `RAG` | `LLMs` | `TensorFlow Lite`
-
-**Data & Visualization:**  
-`NumPy` | `Pandas` | `Matplotlib` | `Plotly` | `FAISS` | `BART` | `Semantic Search` | `OCR`
-
-**Control Systems & Robotics:**  
-`PID` | `MPC` | `EKF/UKF/MHE` | `ROS 2` | `SLAM` | `Path Planning` | `Inverse Kinematics` | `Arduino` | `Raspberry Pi` | `LiDAR`
-
-**Simulation & CAD:**  
-`MATLAB/Simulink` | `SolidWorks` | `Gazebo`
-
-**Cloud & DevOps:**  
-`GCP` | `Azure IoT` | `AWS IoT` | `FastAPI` | `Git` | `GitHub`
+🎯 Begeistert von intelligenten Systemen an der Schnittstelle von **Regelungstechnik**, **Künstlicher Intelligenz** und **Robotik**.  
+📚 Masterarbeit bei **Festo SE & Co. KG** mit Fokus auf **hybride Model Predictive Control (MPC)** zur Optimierung biotechnologischer Prozesse.  
+🔧 Praxiserfahrung in **ROS 2**, **Embedded Systems**, **Industrieller Automatisierung** und **Hardware-in-the-Loop (HiL)**.  
+📍 Stuttgart, Deutschland | Einsatzbereit & offen für Umzüge | Suche nach spannenden Aufgaben im Bereich Robotik, KI oder Automatisierung.
 
 ---
 
-## 📌 Highlighted Projects
+## 🔧 Technologischer Schwerpunkt
 
-🌿 **🎓 Thesis @ Festo:**  
-*Hybrid Model Predictive Control for Bioreactors with Neural Networks & Reinforcement Learning*  
-> Simulated microbial growth using ODEs, applied MPC for control, integrated NN-based modeling, and evaluated EKF/UKF/MHE for estimation.
+**Programmiersprachen & Tools:**  
+`Python` | `C++` | `MATLAB/Simulink` | `TIA Portal (SPS-Programmierung)` | `Git`
 
-📱 **Crop Disease Detection App:**  
-> End-to-end mobile-integrated CNN model using TensorFlow Lite and FastAPI backend for real-time plant health feedback.
+**Künstliche Intelligenz & Maschinelles Lernen:**  
+`PyTorch` | `TensorFlow` | `Scikit-learn` | `Keras` | `Langchain` | `YOLO` | `CNN` | `BART` | `RAG` | `TensorFlow Lite`
 
-🧠 **AI Study Chatbot:**  
-> Built a PDF-reading AI chatbot using Langchain, FAISS, BART, and OpenAI APIs—supporting semantic search and content simplification.
+**Robotik & Simulation:**  
+`ROS 2` | `Gazebo` | `SLAM` | `Pfadplanung (A*/Dijkstra)` | `LiDAR` | `RViz` | `Inverse Kinematik` | `Hindernisvermeidung`
 
-🌍 **LiDAR Monte Carlo Simulation:**  
-> Simulated photon propagation in glacier ice to detect internal meltwater layers. Used real physics for LiDAR accuracy.
+**Embedded & IoT:**  
+`Arduino` | `Raspberry Pi` | `AWS IoT` | `Azure IoT Hub` | `Google Cloud Functions`
 
-🏭 **Autonomous Robot Simulation:**  
-> Designed a warehouse robot in ROS 2 with SLAM, A*/Dijkstra planning, and YOLO-based dynamic obstacle handling.
-
-🤖 **Lego EV3 Manipulator Arm:**  
-> MATLAB/Simulink-controlled robot arm with inverse kinematics and PID, capable of precise pick-and-place tasks.
+**Datenanalyse & Visualisierung:**  
+`Pandas` | `NumPy` | `Matplotlib` | `Plotly` | `FAISS` | `OCR` | `2D/3D-Darstellungen`
 
 ---
 
-## 🌐 Let's Connect
+## 📌 Projekt-Highlights
 
-- 💼 [LinkedIn](https://linkedin.com/in/sahiljasani)  
-- 📧 [Email](mailto:sahil.jasani@student.uni-siegen.de)  
-- 🔎 [CV (on request)]  
-- 📍 Stuttgart, Germany | Willing to Relocate
+🎓 **Masterarbeit @ Festo:**  
+*Hybride MPC für Bioreaktoren mit neuronalen Netzen und Reinforcement Learning*  
+> Dynamikmodellierung mit ODEs, MPC-Reglerentwicklung, Integration von NN-Modellen und Vergleich von EKF/UKF/MHE zur Zustandsabschätzung.
+
+🌿 **KI-gestützte Pflanzenerkennung (Mobile App):**  
+> CNN-Modell zur Erkennung von Pflanzenkrankheiten (Kartoffeln), optimiert für Mobilgeräte mit TensorFlow Lite und FastAPI-Backend.
+
+🧠 **Semantischer Studien-Chatbot:**  
+> Unterstützung bei der PDF-Navigation mit semantischer Suche und Textvereinfachung (OCR, FAISS, BART, OpenAI API).
+
+🌍 **Monte-Carlo LiDAR-Simulation:**  
+> Simulation der Lichtausbreitung in Gletschereis zur Erkennung von Schichten und Schmelzwasserkanälen.
+
+🤖 **Autonomer Lagerroboter (ROS 2):**  
+> Navigation mit SLAM, Hinderniserkennung mit YOLO, Pfadplanung in Echtzeit – simuliert in Gazebo.
+
+🔧 **Manipulatorarm mit Lego EV3:**  
+> Pick-and-Place-Aufgaben mit MATLAB/Simulink, inverse Kinematik und PID-Regelung für präzise Bewegungssteuerung.
 
 ---
 
-> 🔍 _"Building hybrid systems that think, move, and learn."_  
-> Let's collaborate or connect if you're working on robotics, automation, or applied AI systems!
+## 🌍 Kontaktmöglichkeiten
+
+- 💼 [LinkedIn-Profil ansehen](https://linkedin.com/in/sahiljasani)  
+- 📧 [E-Mail senden](mailto:sahil.jasani@student.uni-siegen.de)  
+- 📍 Stuttgart | Mobil & international einsatzbereit  
+- 📝 Lebenslauf & Referenzen auf Anfrage
+
+---
+
+> _„Technik, die denkt, lernt und sich bewegt.“_  
+> Ich freue mich über Kooperationen, Gespräche oder gemeinsame Projekte im Bereich Robotik, KI oder industrielle Automatisierung!
