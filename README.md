@@ -1,62 +1,75 @@
 # 🚀 Sahil Jasani | M.Sc. Mechatronics | Robotics & KI Enthusiast
 
 🎯 Begeistert von intelligenten Systemen an der Schnittstelle von **Regelungstechnik**, **Künstlicher Intelligenz** und **Robotik**.  
-📚 Masterarbeit bei **Festo SE & Co. KG** mit Fokus auf **hybride Model Predictive Control (MPC)** zur Optimierung biotechnologischer Prozesse.  
-🔧 Praxiserfahrung in **ROS 2**, **Embedded Systems**, **Industrieller Automatisierung** und **Hardware-in-the-Loop (HiL)**.  
-📍 Stuttgart, Deutschland | Einsatzbereit & offen für Umzüge | Suche nach spannenden Aufgaben im Bereich Robotik, KI oder Automatisierung.
+📚 Masterarbeit bei **Festo SE & Co. KG**: Wenn's läuft, dann läuft's – mit Model Predictive Control und ein bisschen KI-Magie.  
+🔧 Leidenschaft für Systeme, die nicht nur funktionieren, sondern auch _“nachdenken”_ – am liebsten in Echtzeit!  
+📍 Stuttgart, Deutschland | Bereit für neue Herausforderungen | Relocation? Kein Problem!
 
 ---
 
-## 🔧 Technologischer Schwerpunkt
+## 🔧 Mein Tech-Werkzeugkasten
 
-**Programmiersprachen & Tools:**  
-`Python` | `C++` | `MATLAB/Simulink` | `TIA Portal (SPS-Programmierung)` | `Git`
+**Code & Steuerung:**  
+`Python` | `C++` | `MATLAB/Simulink` | `SPS (TIA Portal)` | `Git`  
+🛠️ _"Wenn’s nicht in Python geht, dann geht’s halt in C++."_ 😄
 
 **Künstliche Intelligenz & Maschinelles Lernen:**  
-`PyTorch` | `TensorFlow` | `Scikit-learn` | `Keras` | `Langchain` | `YOLO` | `CNN` | `BART` | `RAG` | `TensorFlow Lite`
+`PyTorch` | `TensorFlow` | `YOLO` | `Langchain` | `CNN` | `RAG` | `BART` | `TensorFlow Lite`
 
 **Robotik & Simulation:**  
-`ROS 2` | `Gazebo` | `SLAM` | `Pfadplanung (A*/Dijkstra)` | `LiDAR` | `RViz` | `Inverse Kinematik` | `Hindernisvermeidung`
+`ROS 2` | `Gazebo` | `SLAM` | `A*/Dijkstra` | `LiDAR` | `RViz`  
+🤖 _"Ich spreche fließend ROS 2… und ein bisschen Deutsch."_ 🇩🇪
 
 **Embedded & IoT:**  
-`Arduino` | `Raspberry Pi` | `AWS IoT` | `Azure IoT Hub` | `Google Cloud Functions`
+`Arduino` | `Raspberry Pi` | `Azure IoT Hub` | `AWS IoT` | `Google Cloud Functions`
 
-**Datenanalyse & Visualisierung:**  
-`Pandas` | `NumPy` | `Matplotlib` | `Plotly` | `FAISS` | `OCR` | `2D/3D-Darstellungen`
-
----
-
-## 📌 Projekt-Highlights
-
-🎓 **Masterarbeit @ Festo:**  
-*Hybride MPC für Bioreaktoren mit neuronalen Netzen und Reinforcement Learning*  
-> Dynamikmodellierung mit ODEs, MPC-Reglerentwicklung, Integration von NN-Modellen und Vergleich von EKF/UKF/MHE zur Zustandsabschätzung.
-
-🌿 **KI-gestützte Pflanzenerkennung (Mobile App):**  
-> CNN-Modell zur Erkennung von Pflanzenkrankheiten (Kartoffeln), optimiert für Mobilgeräte mit TensorFlow Lite und FastAPI-Backend.
-
-🧠 **Semantischer Studien-Chatbot:**  
-> Unterstützung bei der PDF-Navigation mit semantischer Suche und Textvereinfachung (OCR, FAISS, BART, OpenAI API).
-
-🌍 **Monte-Carlo LiDAR-Simulation:**  
-> Simulation der Lichtausbreitung in Gletschereis zur Erkennung von Schichten und Schmelzwasserkanälen.
-
-🤖 **Autonomer Lagerroboter (ROS 2):**  
-> Navigation mit SLAM, Hinderniserkennung mit YOLO, Pfadplanung in Echtzeit – simuliert in Gazebo.
-
-🔧 **Manipulatorarm mit Lego EV3:**  
-> Pick-and-Place-Aufgaben mit MATLAB/Simulink, inverse Kinematik und PID-Regelung für präzise Bewegungssteuerung.
+**Analyse & Visualisierung:**  
+`Pandas` | `Plotly` | `FAISS` | `OCR` | `Matplotlib` | `NumPy`  
+📊 _"Ohne ein schönes Plotly-Graph ist das Projekt nicht fertig."_ 😄
 
 ---
 
-## 🌍 Kontaktmöglichkeiten
+## 📌 Projekte, die laufen (und lernen)
 
-- 💼 [LinkedIn-Profil ansehen](https://linkedin.com/in/sahiljasani)  
-- 📧 [E-Mail senden](mailto:sahil.jasani@student.uni-siegen.de)  
-- 📍 Stuttgart | Mobil & international einsatzbereit  
-- 📝 Lebenslauf & Referenzen auf Anfrage
+🎓 **Masterarbeit @ Festo (Mai 2025 – jetzt):**  
+*Hybride MPC für Bioreaktoren – mit neuronalen Netzen und Reinforcement Learning*  
+> ODEs, Zustandsregler, Estimators, HiL mit SPS… der ganze Werkzeugkasten. Deutsches Engineering, gepaart mit KI-Power!
+
+🌿 **Crop Disease Detection App:**  
+> Kartoffelpflanzen sagen Danke. CNN + TensorFlow Lite = Diagnose to go für Landwirte.
+
+📚 **AI Study Chatbot:**  
+> PDFs lesen, verstehen und vereinfachen – ein kleiner digitaler Tutor, powered by FAISS, BART & Langchain.
+
+🌨️ **Monte-Carlo LiDAR-Simulation:**  
+> LiDAR trifft auf Eis. Schichten erkennen, Photonen zählen, Physik simulieren.
+
+🤖 **Autonomer ROS 2 Roboter:**  
+> Lagerhalle? Kein Problem. SLAM, Pfadplanung und YOLO sorgen für freie Fahrt.
+
+🦾 **Lego EV3 Manipulator:**  
+> Pick and Place wie bei Bosch – mit PID, Inverser Kinematik und MATLAB-Magie.
 
 ---
 
-> _„Technik, die denkt, lernt und sich bewegt.“_  
-> Ich freue mich über Kooperationen, Gespräche oder gemeinsame Projekte im Bereich Robotik, KI oder industrielle Automatisierung!
+## 👨‍💻 Über mich (mit einem Augenzwinkern)
+
+🇮🇳 Geboren in Indien, 🇩🇪 gelebt in Deutschland, 🌍 gearbeitet zwischen Technik und Fantasie.  
+💬 Ich glaube: **“Wenn es sich bewegen kann, kann es auch geregelt werden.”**  
+☕ Koffein ist mein Compiler.  
+🎓 Mechatronik ist mein Werkzeug.  
+🤖 Und mein Lieblingsgeräusch? Wenn ein Servo *genau richtig* summt.
+
+---
+
+## 🌍 Lass uns vernetzen
+
+- 💼 [LinkedIn](https://linkedin.com/in/sahiljasani)  
+- 📧 [Email](mailto:sahil.jasani@student.uni-siegen.de)  
+- 📍 Aktuell: Stuttgart | Einsatzbereit europaweit  
+- 📝 Lebenslauf & Referenzen? Einfach melden!
+
+---
+
+> _„Warum einfach, wenn’s auch mit KI geht?“_ 😄  
+> Ich freue mich auf spannende Projekte, neue Herausforderungen und gute Gespräche – auf Deutsch oder Englisch!
