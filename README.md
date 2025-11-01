@@ -1,83 +1,89 @@
-# 👋 Hallo, I'm Sahil Jasani  
+# 👋 Hello, I'm Sahil Jasani
 
-### 🚀 Industrial Automation & AI Control Engineer  
-🔹 Mechatronics Engineer | Intelligent Control Systems | IIoT & Edge AI  
-🔹 Currently: Master’s Thesis @ **Festo SE & Co. KG** → *Hybrid MPC + AI for Bioreactors*  
-🔹 Location: Esslingen, Germany 🇩🇪 | Open to relocation (yes, I can handle German winters ❄️)  
-
----
-
-## 🧑‍💻 About Me
-I build **control systems that don’t panic** when things get nonlinear.  
-Think of me as the guy who teaches machines to stay calm — whether it’s a bioreactor at Festo, a robot arm, or a noisy IIoT motor.  
-
-Currently, I’m working on a **Hybrid Model Predictive Control (MPC)** system with a dash of AI — because why choose between mathematics and machine learning when you can have both?  
+### 🚀 Industrial Automation & Control Engineer
+M.Sc. Mechatronics | Advanced Process Control | Industrial AI & IIoT
+- 🔬 **Current Focus:** Model Predictive Control & State Estimation for industrial bioreactors @ Festo SE & Co. KG
+- 📍 **Location:** Esslingen, Germany | Open to relocation within Germany
+- 🎯 **Specialization:** Bridging advanced control theory with industrial deployment
 
 ---
 
-## 🔧 Core Skills (short & sweet)  
-⚙️ **Control & AI** → MPC, Reinforcement Learning, EKF/UKF, Neural Nets  
-🏭 **Automation** → Siemens S7-1500, TIA Portal, OPC UA, SCADA, HiL  
-💻 **Software** → Python, C++, Docker, GitHub Actions, CI/CD  
-🌐 **IIoT & Edge AI** → MQTT, InfluxDB, Grafana, AWS IoT, Azure IoT Hub  
-🛠️ **Simulation** → MATLAB/Simulink, CasADi, CODESYS, Digital Twin  
+## 🔧 Technical Expertise
+
+**Advanced Control & Optimization**
+- Model Predictive Control (MPC)
+- State Estimation (EKF, UKF, MHE)  
+- Real-time Optimization
+- System Identification
+
+**Industrial Automation**
+- PLC Programming (Siemens S7-1500, TIA Portal)
+- HIL Validation, OPC UA, PROFINET
+- Functional Safety (ISO 13849)
+
+**Industrial AI & IIoT**
+- Python (PyTorch, NumPy, Scikit-learn)
+- Digital Twin Development
+- MQTT, InfluxDB, Grafana
+- Docker, CI/CD Pipelines
+
+**Software & Embedded**
+- C++ (Embedded Systems)
+- Real-Time Operating Systems
+- MATLAB/Simulink, CasADi
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
-### 🏭 [AI-Supervised IIoT Control System](https://github.com/SahilJasani2) *(Open Source)*  
-*A mini “Industry 4.0 in a box” → Dockerized pipeline for smart motor monitoring.*  
-- EKF for state estimation  
-- PyTorch Autoencoder as Digital Twin (yes, the motor has a twin 👯)  
-- AI-supervised PID control over MQTT  
-- Stack: Docker, Python, PyTorch, Grafana  
+### AI-Supervised IIoT Control System
+Containerized IIoT pipeline for real-time motor monitoring and AI-supervised control
+- Extended Kalman Filter for state estimation
+- PyTorch Autoencoder for anomaly detection  
+- Digital twin integration with PID control
+- **Tech:** Docker, Python, PyTorch, MQTT, InfluxDB, Grafana
 
----
+### Advanced LiDAR Simulation
+Monte Carlo photon transport model for LiDAR performance in harsh environments
+- Physics-based simulation framework
+- Interactive parameter analysis dashboard  
+- **Tech:** Python, Monte Carlo Methods, Streamlit, Plotly
+- *Supervised by Prof. Dr. Ivo Ihrke (Grade: 1.0)*
 
-### 🔬 Advanced LiDAR Simulation  
-*Ever wondered how LiDAR behaves in fog, ice, or dust? I built a Monte Carlo model so you don’t have to.*  
-- Physics-based photon transport simulation  
-- Interactive Streamlit dashboard for parameter exploration  
-- Tools: Python, Monte Carlo, Streamlit, Plotly  
-
----
-
-### 🤖 Manipulator Robot – Pick & Place  
-*A 3-DOF robotic manipulator that never gets tired of picking things up and putting them down.*  
-- Inverse kinematics + PID control  
-- Modular framework for real-time trajectory planning  
-- Tools: MATLAB, Simulink, Robotics Toolbox  
+### Manipulator Robot – Pick & Place Automation
+3-DOF robotic manipulator with inverse kinematics and PID control
+- Real-time trajectory planning
+- Modular control framework with sensor feedback
+- **Tech:** MATLAB, Simulink, Robotics Toolbox
 
 ---
 
-## 🎓 Education  
-- **M.Sc. Mechatronics** – University of Siegen (2022–2025)  
-  *Thesis @ Festo: Hybrid MPC + AI for Bioreactor Optimization*  
-- **B.Eng. Mechanical Engineering** – Gujarat University (2017–2020)  
+## 🎓 Education & Certifications
+
+**M.Sc. Mechatronics** | University of Siegen (2022–2025)
+- Thesis: Model Predictive Control for Industrial Bioreactors @ Festo
+- Focus: Advanced Control Systems, Embedded Systems, Industrial Automation
+
+**B.E. Mechanical Engineering** | Gujarat University (2017–2020)
+- Grade: 1.4 (German equivalent)
+
+**Certifications**
+- Generative AI with Diffusion Models (NVIDIA)
+- Building RAG Agents with LLMs (NVIDIA)  
+- AI Agents Fundamentals (Hugging Face)
+- Lean Six Sigma Green Belt
 
 ---
 
-## 🏅 Certifications (a few highlights)  
-- NVIDIA: *Generative AI with Diffusion Models*  
-- Hugging Face: *AI Agents Fundamentals*  
-- Lean Six Sigma Green Belt (yes, I can optimize pizza delivery too 🍕)  
-- IELTS C1 (7.5 Band)  
+## 🌍 Languages
+- **English:** C1 (IELTS 7.5)
+- **German:** B1 (Intermediate - actively improving)
+- **Hindi:** Native
 
 ---
 
-## 🌍 Languages  
-- English (C1 – Fluent)  
-- German (B1 – learning, can already order Döner without switching to English 🌯)  
-- Hindi (Native)  
-
----
-
-## 📫 Connect with me  
-🔗 [GitHub](https://github.com/SahilJasani2)  
-🔗 [LinkedIn](https://linkedin.com/in/sahiljasani)  
-📧 sahil.jasani@student.uni-siegen.de  
-
----
-
-⭐️ *“Engineering control systems that work smarter — and occasionally joke about it.”*  
+## 📫 Connect
+- **GitHub:** [github.com/SahilJasani2](https://github.com/SahilJasani2)
+- **LinkedIn:** [linkedin.com/in/sahiljasani](https://linkedin.com/in/sahiljasani)
+- **Email:** sahil.jasani@student.uni-siegen.de
+- **Portfolio:** [sahiljasani2.github.io](https://sahiljasani2.github.io)
