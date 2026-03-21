@@ -84,7 +84,7 @@
 
 ---
 
-### Selected Projects
+### Projects
 
 * **Hybrid HiL Thermal Control:** Connected a Python physics model to a CODESYS PLC via Modbus TCP for real-time Hardware-in-the-Loop simulation.
 * **AI-Supervised IIoT Control:** Integrated field-level PID controllers with PyTorch Autoencoders for autonomous safe-state transitions.
