@@ -1,0 +1,20 @@
+name: Refresh README Quote
+on:
+  schedule:
+    - cron: '0 * * * *' # Updates every hour automatically
+  workflow_dispatch:     # Allows you to click a button to refresh instantly
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Timestamp
+        run: |
+          # Finds the cache buster line and updates it with the current time
+          sed -i "s/Last Updated: .*/Last Updated: $(date)/" README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Automation: Refresh dynamic content"
+          git push
