@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quote" />
 </div>
 
 ---
@@ -84,7 +84,7 @@
 
 ---
 
-### Projects
+### Selected Projects
 
 * **Hybrid HiL Thermal Control:** Connected a Python physics model to a CODESYS PLC via Modbus TCP for real-time Hardware-in-the-Loop simulation.
 * **AI-Supervised IIoT Control:** Integrated field-level PID controllers with PyTorch Autoencoders for autonomous safe-state transitions.
