@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&v=1" alt="Random Programming Quote" />
 </div>
 
 ---
@@ -15,7 +15,7 @@
 
 **Festo SE & Co. KG** | Master's Thesis Engineer | *05/2025 – 01/2026*
 * Thesis: Model Predictive Control for Optimization of Nonlinear Industrial Systems (Grade: 1.3).
-* Implemented Adaptive LTV-MPC for complex MIMO plants and developed Augmented EKF for state estimation.
+* Developed Adaptive LTV-MPC and Augmented EKF for complex MIMO plants.
 * Verified real-time feasibility for industrial PLC execution utilizing Python and CVXPY.
 
 **Asahi India Glass AIS** | Process & Systems Engineer | *10/2020 – 05/2022*
