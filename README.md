@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. — Brian Kernighan"</i>
+  <i>"If it hurts, do it more often. — Jez Humble"</i>
 </div>
 <!-- QUOTE END -->
 
