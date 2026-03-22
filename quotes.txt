@@ -1,8 +1,60 @@
 All models are wrong, but some are useful. — George E. P. Box
-To live effectively is to live with adequate information. — Norbert Wiener
-In God we trust. All others must bring data. — W. Edwards Deming
+Feedback is the fundamental mechanism that enables living systems to regulate themselves. — Francis Heylighen
+Control is the art of achieving desired behavior by influencing the environment. — Karl Johan Åström
+The most powerful tool in engineering is feedback. — Karl Johan Åström
+The problem is not to find the best solution, but to find a solution that is good enough and robust. — John Doyle
+A complex system that works is invariably found to have evolved from a simple system that worked. — John Gall
+System boundaries are strictly a construct of the mind. — Donella Meadows
+Prediction is very difficult, especially about the future. — Niels Bohr
+In theory, theory and practice are the same. In practice, they are not. — Albert Einstein
+Everything should be made as simple as possible, but not simpler. — Albert Einstein
+You cannot control what you cannot measure. — Tom DeMarco
+The art of progress is to preserve order amid change and to preserve change amid order. — Alfred North Whitehead
+It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change. — Charles Darwin
+The most dangerous kind of waste is the waste we do not recognize. — Shigeo Shingo
+A good designer must rely on experience, on precise, logical thinking; and on pedantic exactness. — Ludwig Mies van der Rohe
+The first principle is that you must not fool yourself — and you are the easiest person to fool. — Richard Feynman
+Simplicity is the ultimate sophistication. — Leonardo da Vinci
+If you can't explain it simply, you don't understand it well enough. — Albert Einstein
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. — Brian Kernighan
+The only thing that interferes with my learning is my education. — Albert Einstein
+One accurate measurement is worth a thousand expert opinions. — Grace Hopper
 You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. — Buckminster Fuller
 The purpose of computing is insight, not numbers. — Richard Hamming
-One accurate measurement is worth a thousand expert opinions. — Grace Hopper
-System boundaries are strictly a construct of the mind. — Donella Meadows
-A complex system that works is invariably found to have evolved from a simple system that worked. — John Gall
+The most dangerous phrase in the language is "we've always done it this way." — Grace Hopper
+Don't automate, obliterate. — Michael Hammer
+If it hurts, do it more often. — Jez Humble
+Without data, you're just another person with an opinion. — W. Edwards Deming
+Quality is not an act, it is a habit. — Aristotle
+The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday's logic. — Peter Drucker
+You can't improve what you don't measure. — Peter Drucker
+The key to success is to start before you are ready. — Marie Forleo
+It always seems impossible until it's done. — Nelson Mandela
+A journey of a thousand miles begins with a single step. — Lao Tzu
+The only way to do great work is to love what you do. — Steve Jobs
+Design is not just what it looks like and feels like. Design is how it works. — Steve Jobs
+Simple can be harder than complex: you have to work hard to get your thinking clean. — Steve Jobs
+The future is already here — it's just not very evenly distributed. — William Gibson
+Any sufficiently advanced technology is indistinguishable from magic. — Arthur C. Clarke
+The most profound technologies are those that disappear. — Mark Weiser
+Waste is anything other than the minimum amount of equipment, materials, parts, space, and worker's time which are absolutely essential to add value to the product. — Taiichi Ohno
+Science is what we understand well enough to explain to a computer. — Donald Knuth
+An algorithm must be seen to be believed. — Donald Knuth
+The goal is to turn data into information, and information into insight. — Carly Fiorina
+The real problem is not whether machines think but whether men do. — B. F. Skinner
+The best way to predict the future is to invent it. — Alan Kay
+The more you know, the more you realize you don't know. — Aristotle
+It is not enough to have a good mind; the main thing is to use it well. — René Descartes
+We cannot solve our problems with the same thinking we used when we created them. — Albert Einstein
+The question of whether machines can think is about as relevant as the question of whether submarines can swim. — Edsger W. Dijkstra
+The most important property of a program is whether it accomplishes the intention of its user. — C.A.R. Hoare
+Intelligence is the ability to adapt to change. — Stephen Hawking
+The future of AI is not about replicating human intelligence, but augmenting it. — Fei-Fei Li
+Data is the new oil. — Clive Humby
+It's not artificial intelligence that should scare us, but artificial stupidity. — Gary Marcus
+The real AI revolution is not about making machines smarter, but about making them more useful. — Andrew Ng
+We are at the beginning of a golden age of AI. — Demis Hassabis
+AI is the new electricity. — Andrew Ng
+The most important thing about AI is that it's a tool, not a threat. — Yann LeCun
+The real risk with AI is not malice, but competence. — Nick Bostrom
+To ask the right question is harder than to answer it. — Georg Cantor
