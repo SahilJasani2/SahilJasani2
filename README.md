@@ -5,9 +5,11 @@
 
 ---
 
+<!-- QUOTE START -->
 <div align="center">
   <i>"A complex system that works is invariably found to have evolved from a simple system that worked. — John Gall"</i>
 </div>
+<!-- QUOTE END -->
 
 ---
 
