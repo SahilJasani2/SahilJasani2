@@ -1,3 +1,7 @@
+
+<div align="center">
+  <i>"The purpose of computing is insight, not numbers. — Richard Hamming"</i>
+</div>
 # Sahil Jasani
 **Automation | Industrial AI | Advanced Control**
 
