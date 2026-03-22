@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"If it hurts, do it more often. — Jez Humble"</i>
+  <i>"The purpose of computing is insight, not numbers. — Richard Hamming"</i>
 </div>
 <!-- QUOTE END -->
 
