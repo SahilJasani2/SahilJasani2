@@ -4,27 +4,12 @@ Control theory is the discipline that deals with the automatic control of dynami
 One of the most important properties of a control system is that it should be robust to uncertainties. — John Doyle
 Prediction is very difficult, especially about the future. — Niels Bohr
 The first principle is that you must not fool yourself — and you are the easiest person to fool. — Richard Feynman
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. — Brian Kernighan
-It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change. — Leon C. Megginson
-The most dangerous kind of waste is the waste we do not recognize. — Shigeo Shingo
 You cannot control what you cannot measure. — Tom DeMarco
 System boundaries are strictly a construct of the mind. — Donella Meadows
 The art of progress is to preserve order amid change and to preserve change amid order. — Alfred North Whitehead
-We are stuck with technology when what we really want is just stuff that works. — Douglas Adams
-The major difference between a thing that might go wrong and a thing that cannot possibly go wrong is that when a thing that cannot possibly go wrong goes wrong it usually turns out to be impossible to get at or repair. — Douglas Adams
-Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius—and a lot of courage—to move in the opposite direction. — E. F. Schumacher
 One accurate measurement is worth a thousand expert opinions. — Grace Hopper
 The purpose of computing is insight, not numbers. — Richard Hamming
-You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. — Buckminster Fuller
 Without data, you're just another person with an opinion. — W. Edwards Deming
 The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday's logic. — Peter Drucker
-If it hurts, do it more often. — Jez Humble
-Waste is anything other than the minimum amount of equipment, materials, parts, space, and worker's time which are absolutely essential to add value to the product. — Taiichi Ohno
 The future is already here — it's just not very evenly distributed. — William Gibson
 Any sufficiently advanced technology is indistinguishable from magic. — Arthur C. Clarke
-Science is what we understand well enough to explain to a computer. — Donald Knuth
-The real problem is not whether machines think but whether men do. — B. F. Skinner
-The best way to predict the future is to invent it. — Alan Kay
-We cannot solve our problems with the same thinking we used when we created them. — Albert Einstein
-The question of whether machines can think is about as relevant as the question of whether submarines can swim. — Edsger W. Dijkstra
-Data is the new oil. — Clive Humby
