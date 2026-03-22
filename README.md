@@ -1,7 +1,3 @@
-
-<div align="center">
-  <i>"The purpose of computing is insight, not numbers. — Richard Hamming"</i>
-</div>
 # Sahil Jasani
 **Automation | Industrial AI | Advanced Control**
 
@@ -12,7 +8,6 @@
 <div align="center">
   <i>"All models are wrong, but some are useful." — George E. P. Box</i>
 </div>
-
 ---
 
 ### Professional Experience
