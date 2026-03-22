@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"To ask the right question is harder than to answer it. — Georg Cantor"</i>
+  <i>"The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. — Brian Kernighan"</i>
 </div>
 <!-- QUOTE END -->
 
