@@ -9,7 +9,7 @@ with open('quotes.txt', 'r', encoding='utf-8') as f:
 selected_quote = random.choice(quotes)
 new_quote_block = f'''<!-- QUOTE START -->
 <div align="center">
-  <i>"{selected_quote}"</i>
+  <i>{selected_quote}</i>
 </div>
 <!-- QUOTE END -->'''
 
