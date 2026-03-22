@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"The purpose of computing is insight, not numbers. — Richard Hamming"</i>
+  <i>""Facts do not cease to exist because they are ignored." — Aldous Huxley"</i>
 </div>
 <!-- QUOTE END -->
 
