@@ -1,3 +1,7 @@
+
+<div align="center">
+  <i>"You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. — Buckminster Fuller"</i>
+</div>
 # Sahil Jasani
 **Automation | Industrial AI | Advanced Control**
 
