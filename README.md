@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>""Facts do not cease to exist because they are ignored." — Aldous Huxley"</i>
+  <i>"You cannot control what you cannot measure." — Tom DeMarco</i>
 </div>
 <!-- QUOTE END -->
 
