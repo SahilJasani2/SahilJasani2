@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quote" />
+  <i>"A complex system that works is invariably found to have evolved from a simple system that worked. — John Gall"</i>
 </div>
 
 ---
