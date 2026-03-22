@@ -1,7 +1,3 @@
-
-<div align="center">
-  <i>"System boundaries are strictly a construct of the mind. — Donella Meadows"</i>
-</div>
 # Sahil Jasani
 **Automation | Industrial AI | Advanced Control**
 
