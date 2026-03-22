@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"System boundaries are strictly a construct of the mind. — Donella Meadows"</i>
+  <i>"To live effectively is to live with adequate information. — Norbert Wiener"</i>
 </div>
 <!-- QUOTE END -->
 
