@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Programming Quote" />
+  <i>"All models are wrong, but some are useful." — George E. P. Box</i>
 </div>
 
 ---
