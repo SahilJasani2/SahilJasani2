@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"To live effectively is to live with adequate information. — Norbert Wiener"</i>
+  <i>"To ask the right question is harder than to answer it. — Georg Cantor"</i>
 </div>
 <!-- QUOTE END -->
 
