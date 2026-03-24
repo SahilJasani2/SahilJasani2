@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Facts do not cease to exist because they are ignored." — Aldous Huxley</i>
+  <i>"I would rather have questions that can’t be answered than answers that can’t be questioned." — Richard Feynman</i>
 </div>
 <!-- QUOTE END -->
 
