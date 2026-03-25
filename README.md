@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"I would rather have questions that can’t be answered than answers that can’t be questioned." — Richard Feynman</i>
+  <i>"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it." — Edsger Dijkstra</i>
 </div>
 <!-- QUOTE END -->
 
