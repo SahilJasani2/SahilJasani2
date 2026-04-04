@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Prediction is very difficult, especially about the future." — Niels Bohr</i>
+  <i>"Facts do not cease to exist because they are ignored." — Aldous Huxley</i>
 </div>
 <!-- QUOTE END -->
 
