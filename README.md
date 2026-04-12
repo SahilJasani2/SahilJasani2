@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"The first principle is that you must not fool yourself — and you are the easiest person to fool." — Richard Feynman</i>
+  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
 </div>
 <!-- QUOTE END -->
 
