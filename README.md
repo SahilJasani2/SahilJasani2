@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"One accurate measurement is worth a thousand expert opinions." — Grace Hopper</i>
+  <i>"A complex system that works is invariably found to have evolved from a simple system that worked." — John Gall</i>
 </div>
 <!-- QUOTE END -->
 
