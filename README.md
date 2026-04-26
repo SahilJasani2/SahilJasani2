@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"You cannot control what you cannot measure." — Tom DeMarco</i>
+  <i>"One accurate measurement is worth a thousand expert opinions." — Grace Hopper</i>
 </div>
 <!-- QUOTE END -->
 
