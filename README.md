@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+  <i>"Prediction is very difficult, especially about the future." — Niels Bohr</i>
 </div>
 <!-- QUOTE END -->
 
