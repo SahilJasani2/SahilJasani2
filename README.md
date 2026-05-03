@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"A complex system that works is invariably found to have evolved from a simple system that worked." — John Gall</i>
+  <i>"I would rather have questions that can’t be answered than answers that can’t be questioned." — Richard Feynman</i>
 </div>
 <!-- QUOTE END -->
 
