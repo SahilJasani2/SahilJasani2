@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+  <i>"Success is not built on success. It’s built on failure. It’s built on frustration. It’s built on near success." — Henry Petroski</i>
 </div>
 <!-- QUOTE END -->
 
