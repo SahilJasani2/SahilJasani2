@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"One accurate measurement is worth a thousand expert opinions." — Grace Hopper</i>
+  <i>"I would rather have questions that can’t be answered than answers that can’t be questioned." — Richard Feynman</i>
 </div>
 <!-- QUOTE END -->
 
