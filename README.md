@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Facts do not cease to exist because they are ignored." — Aldous Huxley</i>
+  <i>"One accurate measurement is worth a thousand expert opinions." — Grace Hopper</i>
 </div>
 <!-- QUOTE END -->
 
