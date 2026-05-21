@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"One accurate measurement is worth a thousand expert opinions." — Grace Hopper</i>
+  <i>"Prediction is very difficult, especially about the future." — Niels Bohr</i>
 </div>
 <!-- QUOTE END -->
 
