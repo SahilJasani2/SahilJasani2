@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+  <i>"Facts do not cease to exist because they are ignored." — Aldous Huxley</i>
 </div>
 <!-- QUOTE END -->
 
