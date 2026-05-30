@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Success is not built on success. It’s built on failure. It’s built on frustration. It’s built on near success." — Henry Petroski</i>
+  <i>"The first principle is that you must not fool yourself — and you are the easiest person to fool." — Richard Feynman</i>
 </div>
 <!-- QUOTE END -->
 
