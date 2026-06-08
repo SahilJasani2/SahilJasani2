@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"A complex system that works is invariably found to have evolved from a simple system that worked." — John Gall</i>
+  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
 </div>
 <!-- QUOTE END -->
 
