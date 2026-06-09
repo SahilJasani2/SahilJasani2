@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
+  <i>"You cannot control what you cannot measure." — Tom DeMarco</i>
 </div>
 <!-- QUOTE END -->
 
