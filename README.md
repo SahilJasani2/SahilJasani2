@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"You cannot control what you cannot measure." — Tom DeMarco</i>
+  <i>"Prediction is very difficult, especially about the future." — Niels Bohr</i>
 </div>
 <!-- QUOTE END -->
 
