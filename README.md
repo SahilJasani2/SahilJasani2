@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"One accurate measurement is worth a thousand expert opinions." — Grace Hopper</i>
+  <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i>
 </div>
 <!-- QUOTE END -->
 
