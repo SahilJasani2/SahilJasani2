@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Prediction is very difficult, especially about the future." — Niels Bohr</i>
+  <i>"I would rather have questions that can’t be answered than answers that can’t be questioned." — Richard Feynman</i>
 </div>
 <!-- QUOTE END -->
 
