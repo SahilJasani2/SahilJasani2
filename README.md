@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it." — Edsger Dijkstra</i>
+  <i>"The first principle is that you must not fool yourself — and you are the easiest person to fool." — Richard Feynman</i>
 </div>
 <!-- QUOTE END -->
 
