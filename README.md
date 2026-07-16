@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"I would rather have questions that can’t be answered than answers that can’t be questioned." — Richard Feynman</i>
+  <i>"Success is not built on success. It’s built on failure. It’s built on frustration. It’s built on near success." — Henry Petroski</i>
 </div>
 <!-- QUOTE END -->
 
