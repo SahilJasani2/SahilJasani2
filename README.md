@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Prediction is very difficult, especially about the future." — Niels Bohr</i>
+  <i>"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it." — Edsger Dijkstra</i>
 </div>
 <!-- QUOTE END -->
 
