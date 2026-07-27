@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"The first principle is that you must not fool yourself — and you are the easiest person to fool." — Richard Feynman</i>
+  <i>"Prediction is very difficult, especially about the future." — Niels Bohr</i>
 </div>
 <!-- QUOTE END -->
 
