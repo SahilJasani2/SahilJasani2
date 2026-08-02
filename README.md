@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"The first principle is that you must not fool yourself — and you are the easiest person to fool." — Richard Feynman</i>
+  <i>"I would rather have questions that can’t be answered than answers that can’t be questioned." — Richard Feynman</i>
 </div>
 <!-- QUOTE END -->
 
