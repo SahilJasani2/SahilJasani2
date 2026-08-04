@@ -7,7 +7,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Success is not built on success. It’s built on failure. It’s built on frustration. It’s built on near success." — Henry Petroski</i>
+  <i>"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it." — Edsger Dijkstra</i>
 </div>
 <!-- QUOTE END -->
 
