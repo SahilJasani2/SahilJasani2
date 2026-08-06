@@ -1,5 +1,6 @@
 # Sahil Jasani
-**Automation | Industrial AI | Advanced Control**
+
+**Automation Software & Controls | AI**
 
 [Portfolio](https://sahiljasani2.github.io) • [LinkedIn](https://linkedin.com/in/sahiljasani) • [Email](mailto:jasanisahil11@gmail.com)
 
