@@ -17,9 +17,9 @@
 ### Professional Experience
 
 **Festo SE & Co. KG** | Master's Thesis Engineer | *05/2025 – 01/2026*
-* Thesis: Model Predictive Control for Optimization of Nonlinear Industrial Systems (Grade: 1.3).
+* Thesis: Model Predictive Control for Optimization of Nonlinear Industrial Systems.
 * Implemented Adaptive LTV-MPC for complex MIMO plants and developed Augmented EKF for state estimation.
-* Verified real-time feasibility for industrial PLC execution utilizing Python and CVXPY.
+* Verified real-time feasibility for industrial controller execution.
 
 **Asahi India Glass AIS** | Process & Systems Engineer | *10/2020 – 05/2022*
 * Optimized automated production processes for automotive clients (VW, Suzuki, TATA).
