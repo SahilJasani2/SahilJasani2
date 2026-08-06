@@ -27,7 +27,7 @@
 
 ---
 
-### Technical Arsenal
+### Technical Stack
 
 <table>
   <tr>
@@ -84,14 +84,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### Selected Projects
-
-* **Hybrid HiL Thermal Control:** Connected a Python physics model to a CODESYS PLC via Modbus TCP for real-time Hardware-in-the-Loop simulation.
-* **AI-Supervised IIoT Control:** Integrated field-level PID controllers with PyTorch Autoencoders for autonomous safe-state transitions.
-* **Advanced LiDAR Simulation:** Developed an Object-Oriented Monte Carlo transport engine in Python (Project Grade: 1.0).
 
 ---
 
