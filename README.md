@@ -8,7 +8,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Facts do not cease to exist because they are ignored." — Aldous Huxley</i>
+  <i>"The first principle is that you must not fool yourself — and you are the easiest person to fool." — Richard Feynman</i>
 </div>
 <!-- QUOTE END -->
 
