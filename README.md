@@ -8,7 +8,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"The first principle is that you must not fool yourself — and you are the easiest person to fool." — Richard Feynman</i>
+  <i>"You cannot control what you cannot measure." — Tom DeMarco</i>
 </div>
 <!-- QUOTE END -->
 
