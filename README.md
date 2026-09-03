@@ -8,7 +8,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"One accurate measurement is worth a thousand expert opinions." — Grace Hopper</i>
+  <i>"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it." — Edsger Dijkstra</i>
 </div>
 <!-- QUOTE END -->
 
