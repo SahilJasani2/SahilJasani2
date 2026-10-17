@@ -8,7 +8,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"One accurate measurement is worth a thousand expert opinions." — Grace Hopper</i>
+  <i>"Success is not built on success. It’s built on failure. It’s built on frustration. It’s built on near success." — Henry Petroski</i>
 </div>
 <!-- QUOTE END -->
 
