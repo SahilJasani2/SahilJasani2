@@ -8,7 +8,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"One accurate measurement is worth a thousand expert opinions." — Grace Hopper</i>
+  <i>"The first principle is that you must not fool yourself — and you are the easiest person to fool." — Richard Feynman</i>
 </div>
 <!-- QUOTE END -->
 
