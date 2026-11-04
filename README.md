@@ -8,7 +8,7 @@
 
 <!-- QUOTE START -->
 <div align="center">
-  <i>"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it." — Edsger Dijkstra</i>
+  <i>"A complex system that works is invariably found to have evolved from a simple system that worked." — John Gall</i>
 </div>
 <!-- QUOTE END -->
 
